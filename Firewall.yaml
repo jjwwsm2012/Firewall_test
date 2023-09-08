@@ -5,18 +5,6 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇺🇲 美国01, server: c35s1.jjcruises.com, port: 55386, type: ss, cipher: aes-256-gcm, password: MNBVBC5jbgpxbBob, udp: true}
-  - {name: 🇺🇲 美国02, server: c35s2.jjcruises.com, port: 55386, type: ss, cipher: aes-256-gcm, password: MNBVBC5jbgpxbBob, udp: true}
-  - {name: 🇺🇲 美国03, server: c35s3.jjcruises.com, port: 55386, type: vmess, uuid: 053b0983-1eee-4089-819f-c942e4e7e721, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本01, server: c35s4.jjcruises.com, port: 55386, type: vmess, uuid: 053b0983-1eee-4089-819f-c942e4e7e721, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 荷兰01, server: c35s5.jjcruises.com, port: 55386, type: vmess, uuid: 053b0983-1eee-4089-819f-c942e4e7e721, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇲 美国04, server: c35s801.jjcruises.com, port: 55386, type: vmess, uuid: 053b0983-1eee-4089-819f-c942e4e7e721, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇲 美国05, server: c60s1.jjcruises.com, port: 26351, type: ss, cipher: aes-256-gcm, password: 57dtozbdQRZT9MaL, udp: true}
-  - {name: 🇺🇲 美国06, server: c60s2.jjcruises.com, port: 26351, type: ss, cipher: aes-256-gcm, password: 57dtozbdQRZT9MaL, udp: true}
-  - {name: 🇺🇲 美国07, server: c60s3.jjcruises.com, port: 26351, type: vmess, uuid: 827aa158-679f-4c5e-8a84-d8f7d142c9de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本02, server: c60s4.jjcruises.com, port: 26351, type: vmess, uuid: 827aa158-679f-4c5e-8a84-d8f7d142c9de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 荷兰02, server: c60s5.jjcruises.com, port: 26351, type: vmess, uuid: 827aa158-679f-4c5e-8a84-d8f7d142c9de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇲 美国08, server: c60s801.jjcruises.com, port: 26351, type: vmess, uuid: 827aa158-679f-4c5e-8a84-d8f7d142c9de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🎯 总模式
     type: select
