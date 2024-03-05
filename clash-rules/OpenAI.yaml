@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,auth0.com,OpenAI
-  - DOMAIN-SUFFIX,bing.com,OpenAI
-  - DOMAIN-SUFFIX,live.com,OpenAI
-  - DOMAIN-SUFFIX,chat.openai.com,OpenAI
-  - DOMAIN-SUFFIX,openai.com,OpenAI
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
-  - DOMAIN-SUFFIX,oaistatic.com,OpenAI
-  - DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
-  - DOMAIN-SUFFIX,poe.com,OpenAI
-  - DOMAIN-SUFFIX,sora.openai.com,OpenAI
+  - DOMAIN-SUFFIX,auth0.com,
+  - DOMAIN-SUFFIX,bing.com,
+  - DOMAIN-SUFFIX,live.com,
+  - DOMAIN-SUFFIX,chat..com,
+  - DOMAIN-SUFFIX,.com,
+  - DOMAIN-SUFFIX,api-site.azureedge.net,
+  - DOMAIN-SUFFIX,oaistatic.com,
+  - DOMAIN-SUFFIX,oaiusercontent.com,
+  - DOMAIN-SUFFIX,poe.com,
+  - DOMAIN-SUFFIX,sora..com,
