@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,chat.openai.com,OpenAI
   - DOMAIN-SUFFIX,auth0.com,OpenAI
   - DOMAIN-SUFFIX,bing.com,OpenAI
   - DOMAIN-SUFFIX,live.com,OpenAI
