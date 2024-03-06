@@ -10,5 +10,6 @@ payload:
   - 'poe.com'
   - 'sora.openai.com'
   - 'auth0.openai.com'
+  - '+.openai.com'
   - 'cdn.openai.com'
   - 'client.crisp.chat'
