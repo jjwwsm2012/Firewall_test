@@ -30,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,riotcdn.net,
   - DOMAIN-SUFFIX,wr.pvp.net,
   - DOMAIN-SUFFIX,riotgames.com,
-  - DOMAIN-KEYWORD,rockstargames,
   - DOMAIN-SUFFIX,rsg.sc,
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net,
   - DOMAIN,media-rockstargames-com.akamaized.net,
