@@ -1,14 +1,14 @@
 payload:
-  - DOMAIN-SUFFIX,auth0.com,
-  - DOMAIN-SUFFIX,bing.com,
-  - DOMAIN-SUFFIX,live.com,
-  - DOMAIN-SUFFIX,chat.openai.com,
-  - DOMAIN-SUFFIX,openai.com,
-  - DOMAIN-SUFFIX,api-site.azureedge.net,
-  - DOMAIN-SUFFIX,oaistatic.com,
-  - DOMAIN-SUFFIX,oaiusercontent.com,
-  - DOMAIN-SUFFIX,poe.com,
-  - DOMAIN-SUFFIX,sora.openai.com,
-  - DOMAIN-SUFFIX,auth0.openai.com,
-  - DOMAIN-SUFFIX,cdn.openai.com,
-  - DOMAIN-SUFFIX,client.crisp.chat,
+  - 'auth0.com'
+  - 'bing.com'
+  - 'live.com'
+  - 'chat.openai.com'
+  - 'openai.com'
+  - 'api-site.azureedge.net'
+  - 'oaistatic.com'
+  - 'oaiusercontent.com'
+  - 'poe.com'
+  - 'sora.openai.com'
+  - 'auth0.openai.com'
+  - 'cdn.openai.com'
+  - 'client.crisp.chat'
