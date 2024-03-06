@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,beetalk,
-  - DOMAIN-KEYWORD,telegram,
   - DOMAIN-SUFFIX,t.me,
   - DOMAIN-SUFFIX,tdesktop.com,
   - DOMAIN-SUFFIX,telegra.ph,
@@ -13,7 +11,6 @@ payload:
   - IP-CIDR6,2001:67c:4e8::/48,
   - IP-CIDR6,2001:b28:f23d::/48,
   - IP-CIDR6,2001:b28:f23f::/48,
-  - DOMAIN-KEYWORD,whatsapp,
   - IP-CIDR,18.194.0.0/15,
   - IP-CIDR,34.224.0.0/12,
   - IP-CIDR,50.22.198.204/30,
