@@ -186,4 +186,3 @@ payload:
   - 'www-googletagmanager.l.google.com'
   - 'www.gstatic.com'
   - 'googletraveladservices.com'
-  
