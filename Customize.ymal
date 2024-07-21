@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,roche-bobois.com
   - DOMAIN-SUFFIX,noxinfluencer.com
   - DOMAIN-SUFFIX,cn.noxinfluencer.com
+  - DOMAIN-SUFFIX,amazonaws.com
