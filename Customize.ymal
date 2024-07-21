@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,noxinfluencer.com
   - DOMAIN-SUFFIX,cn.noxinfluencer.com
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,s3.amazonaws.com
